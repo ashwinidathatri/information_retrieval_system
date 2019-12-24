@@ -1,0 +1,6 @@
+Please find attached JAR file which holds the code for designed information retrieval system.
+
+Step 1: Open the Terminal (cmd/windows powershell/ubuntu terminal)
+Step 2: Navigate to the folder where Jar file is saved
+Step 3: Now type the command "java -jar IR P01.jar [path to document folder containing your sample files to be indexed and searched]"
+Step 4: TYpe in the query to be searched once the above command is succesful. 
